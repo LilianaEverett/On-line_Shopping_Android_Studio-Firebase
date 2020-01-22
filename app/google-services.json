@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828669915088",
+    "firebase_url": "https://golden-shoe-b2635.firebaseio.com",
+    "project_id": "golden-shoe-b2635",
+    "storage_bucket": "golden-shoe-b2635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828669915088:android:5f6f3b747d2a288660d3d5",
+        "android_client_info": {
+          "package_name": "com.example.goldenshoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828669915088-cuda7kbabf1q1au7ojc7djre1oovq4kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldenshoe",
+            "certificate_hash": "f42e811101181b87735a9919e148ee99f054d920"
+          }
+        },
+        {
+          "client_id": "828669915088-ms2dtj8ulb7qkqvblu4kjj1ieparrt4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrdd71lvv_bRKLgOr07_EkPsPRgExf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828669915088-ms2dtj8ulb7qkqvblu4kjj1ieparrt4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
